@@ -1,4 +1,3 @@
-Absolutely. Below is a professional and concise `README.md` introduction section tailored for your project **KRRNT**:
 
 ---
 
@@ -23,14 +22,13 @@ Absolutely. Below is a professional and concise `README.md` introduction section
 * ✅ Full authentication flow using Supabase Auth
 * 📸 Image upload and storage via Supabase Buckets
 * 📝 Create, read, and interact with micro-posts
-* 🌐 Server-side rendering for optimized performance
 * 📦 Scalable and clean state management with Zustand
 
 ---
 
 ## 🚧 Challenges & Lessons Learned
 
-Setting up Supabase for auth, database, and file storage presented real-world complexity—from handling session persistence to configuring CORS and managing storage buckets. Through Zod, I ensured input validation remained reliable and secure. This project helped sharpen my debugging, architecture planning, and state modeling skills.
+Setting up Supabase for auth, database, and file storage presented real-world complexity. Through Zod, I ensured input validation remained reliable and secure. This project helped sharpen my debugging, architecture planning, and state modeling skills.
 
 ---
 
@@ -45,7 +43,7 @@ This journey wasn’t easy. But it was worth it. Not perfect—yet progress was 
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/krrnt.git
+git clone git@github.com:Dhirti33/KRRNT.git
 cd krrnt
 npm install
 npm run dev
@@ -60,5 +58,3 @@ Ensure you have a Supabase project set up with the correct environment variables
 MIT License. Feel free to use, learn from, and improve upon this project.
 
 ---
-
-Let me know if you'd like a section for `.env` variables or deployment instructions included.
